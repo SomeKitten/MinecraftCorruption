@@ -1,0 +1,15 @@
+{
+  "options.corruption.title": "Corruption Options",
+
+  "options.corruption.randomizeblocks": "Randomize Blocks",
+  "options.randomizeblocks.off": "Off",
+  "options.randomizeblocks.normal": "Wack",
+  "options.randomizeblocks.high": "Crazy",
+  "options.randomizeblocks.max": "WTF?!?",
+
+  "options.corruption.convertentities": "Convert Entities",
+  "options.convertentities.off": "Off",
+  "options.convertentities.normal": "Wack",
+  "options.convertentities.high": "Crazy",
+  "options.convertentities.max": "WTF?!?"
+}
